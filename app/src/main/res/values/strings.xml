@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="_20">Отлично (20%)</string>
+    <string name="_18">Хорошо (18%)</string>
+    <string name="_15">Нормально (15%)</string>
+    <string name="how_service">Как вам сервис?</string>
+    <string name="price_service">Цена услуги</string>
+    <string name="round_tip">Округлить чаевые?</string>
+    <string name="calculate">Посчитать</string>
+    <string name="many_tip">Количество чаевых: %s</string>
+</resources>
